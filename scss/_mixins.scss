@@ -1,0 +1,22 @@
+@mixin margin-auto {            
+    margin: 0 auto;
+}
+
+@mixin full-width {
+    width: 100%;
+}
+
+@mixin font-aleo {
+    font-family: 'Aleo', serif;    
+    font-weight: 400;
+}
+
+@mixin font-josefin {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+}
+
+@mixin font-normal {
+    font-style: normal;
+    font-weight: normal;
+}
